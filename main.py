@@ -4,9 +4,9 @@ from selenium.webdriver.support.ui import WebDriverWait as wait
 from selenium.webdriver.support import expected_conditions as EC
 
 city_from = "war"
-city_dest = "pra"
+city_dest = "prg"
 adults = 1
-children = 2
+children = 1
 
 
 browser = webdriver.Chrome('/Users/marcin/PycharmProjects/data_s_1/driver/chromedriver');
